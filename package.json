@@ -10,5 +10,8 @@
   "nf": {
     "template": "html-css-js-static"
   },
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
 }

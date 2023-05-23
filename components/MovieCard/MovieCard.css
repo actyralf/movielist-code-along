@@ -1,0 +1,6 @@
+.movie-card {
+  max-width: 400px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid hotpink;
+}
